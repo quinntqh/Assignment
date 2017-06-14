@@ -1,0 +1,20 @@
+body { 
+		margin:0;
+		font-family: sans-serif;
+
+}
+
+header {
+		
+		height: 400px;
+		background-color: #fcce50;
+}
+
+.title {
+
+
+		float: left;
+		text-transform: uppercase;
+		padding: 120px 0 30px;
+	 	color: Black;
+}
