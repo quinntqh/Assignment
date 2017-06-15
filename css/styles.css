@@ -7,7 +7,7 @@ body {
 header {
 		
 		height: 400px;
-		background-image:url(https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/controllers/education/courses/front-end-web-development/PDP-HeaderImg-FEWD-86bd88c4c800f9dfe352f15d9f4cf660.png);
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/controllers/education/courses/front-end-web-development/PDP-HeaderImg-FEWD-86bd88c4c800f9dfe352f15d9f4cf660.png);
 		background-repeat: no-repeat;
 		background-size: cover;
 		
